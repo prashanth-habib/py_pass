@@ -1,5 +1,5 @@
 import customtkinter as ctk
-from logininfo import UserInfo
+from logindata import UserInfo
 
 
 def set_userinfo():
